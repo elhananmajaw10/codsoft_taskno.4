@@ -1,2 +1,2 @@
 # rock_paper_scissors
-python program for implementing rock paper scissors
+python program for implementing rock paper scissors which prompts the user to choose rock, paper, or scissors. Generate a random choice (rock, paper, or scissors) for the computer. Determining the winner based on the user's choice and the computer's choice and shows the user's choice and the computer's choice and display the result, whether the user wins, loses, or it's a tie and keeping track of the user's and computer's scores for multiple rounds.
